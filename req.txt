@@ -1,0 +1,17 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+django-filter
+drf-yasg
+Pillow
+psycopg2-binary
+python-decouple
+celery
+redis
+django-allauth
+drf-api-logger
+pytelegrambotapi
+requests
+python-decouple
+beautifulsoup4
+python-slugify
